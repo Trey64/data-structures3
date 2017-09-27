@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\bin\Debug\netcoreapp2.0\StacksAndThrows.deps.json
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\bin\Debug\netcoreapp2.0\StacksAndThrows.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\bin\Debug\netcoreapp2.0\StacksAndThrows.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\bin\Debug\netcoreapp2.0\StacksAndThrows.dll
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\bin\Debug\netcoreapp2.0\StacksAndThrows.pdb
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\obj\Debug\netcoreapp2.0\StacksAndThrows.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\obj\Debug\netcoreapp2.0\StacksAndThrows.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\obj\Debug\netcoreapp2.0\StacksAndThrows.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\obj\Debug\netcoreapp2.0\StacksAndThrows.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\obj\Debug\netcoreapp2.0\StacksAndThrows.dll
+C:\Users\Tom\source\repos\data-structures3\StacksAndThrows\obj\Debug\netcoreapp2.0\StacksAndThrows.pdb
