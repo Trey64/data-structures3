@@ -1,4 +1,4 @@
-# Stacks and Queues
-
-- For the queue we added nodes to the tail of a linked list. Then we set the head to head.Next and enqueue or dequeue the head.
-- For the stack we set tail to tail.Prev and pop or push.   
+# Palindrome
+- We iterate through the string starting from the end and enqueue each character into a queue.
+- Then we dequeue each character to make a new string.
+- If the new string == the old string, console writes out that it's a palindrome.
