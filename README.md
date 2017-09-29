@@ -1,4 +1,6 @@
-# Palindrome
-- We iterate through the string starting from the end and enqueue each character into a queue.
-- Then we dequeue each character to make a new string.
-- If the new string == the old string, console writes out that it's a palindrome.
+# Implementing a queue with two stacks
+- Create 2 stacks
+- Push into stack1
+- Pop everything from 1 and push into 2
+- Pop everything from 2 and push back into 1
+- Return stack2.pop
