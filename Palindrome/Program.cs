@@ -48,7 +48,6 @@ namespace Palindrome
             else
             {
                 Console.WriteLine($"{oldWord} is NOT a palindrome!");
-
             }
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.deps.json
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.dll
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\bin\Debug\netcoreapp2.0\TwoStacks.pdb
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.dll
+C:\Users\Tom\source\repos\data-structures3\TwoStacks\obj\Debug\netcoreapp2.0\TwoStacks.pdb
