@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\StacksAndQueues\\bin",
+    "\\StacksAndQueues\\obj",
+    "\\StacksAndQueues\\obj\\Debug",
+    "\\StacksAndQueues\\obj\\Release"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\StacksAndQueues.sln",
   "PreviewInSolutionExplorer": false
 }
