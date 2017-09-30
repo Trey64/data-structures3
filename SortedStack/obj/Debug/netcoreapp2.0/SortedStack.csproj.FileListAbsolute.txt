@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\data-structures3\SortedStack\bin\Debug\netcoreapp2.0\SortedStack.deps.json
+C:\Users\Tom\source\repos\data-structures3\SortedStack\bin\Debug\netcoreapp2.0\SortedStack.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures3\SortedStack\bin\Debug\netcoreapp2.0\SortedStack.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures3\SortedStack\bin\Debug\netcoreapp2.0\SortedStack.dll
+C:\Users\Tom\source\repos\data-structures3\SortedStack\bin\Debug\netcoreapp2.0\SortedStack.pdb
+C:\Users\Tom\source\repos\data-structures3\SortedStack\obj\Debug\netcoreapp2.0\SortedStack.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\data-structures3\SortedStack\obj\Debug\netcoreapp2.0\SortedStack.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures3\SortedStack\obj\Debug\netcoreapp2.0\SortedStack.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures3\SortedStack\obj\Debug\netcoreapp2.0\SortedStack.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures3\SortedStack\obj\Debug\netcoreapp2.0\SortedStack.dll
+C:\Users\Tom\source\repos\data-structures3\SortedStack\obj\Debug\netcoreapp2.0\SortedStack.pdb
