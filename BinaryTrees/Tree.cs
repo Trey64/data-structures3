@@ -6,17 +6,17 @@ namespace BinaryTrees
 {
     public class Tree
     {
-        public Leaf Root;
+        public Node Root;
 
         public void CreateTree(string data)
         {
-            Root = new Leaf(data);
-            Root.Left = new Leaf("One");
-            Root.Right = new Leaf(" Two");
-            Root.Left.Left = new Leaf("Three");
-            Root.Left.Right = new Leaf(" Four");
-            Root.Right.Left = new Leaf(" Five");
-            Root.Right.Right = new Leaf(" Six");
+            Root = new Node(data);
+            Root.Left = new Node("One");
+            Root.Right = new Node(" Two");
+            Root.Left.Left = new Node("Three");
+            Root.Left.Right = new Node(" Four");
+            Root.Right.Left = new Node(" Five");
+            Root.Right.Right = new Node(" Six");
         }
 
         public void PrintTree()
