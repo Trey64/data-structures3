@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\bin\Debug\netcoreapp2.0\BinaryTrees.deps.json
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\bin\Debug\netcoreapp2.0\BinaryTrees.runtimeconfig.json
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\bin\Debug\netcoreapp2.0\BinaryTrees.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\bin\Debug\netcoreapp2.0\BinaryTrees.dll
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\bin\Debug\netcoreapp2.0\BinaryTrees.pdb
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\obj\Debug\netcoreapp2.0\BinaryTrees.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\obj\Debug\netcoreapp2.0\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\obj\Debug\netcoreapp2.0\BinaryTrees.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\obj\Debug\netcoreapp2.0\BinaryTrees.AssemblyInfo.cs
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\obj\Debug\netcoreapp2.0\BinaryTrees.dll
+C:\Users\Tom\source\repos\data-structures3\BinaryTrees\obj\Debug\netcoreapp2.0\BinaryTrees.pdb
