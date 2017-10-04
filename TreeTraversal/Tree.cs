@@ -19,16 +19,17 @@ namespace TreeTraversal
 
         public void Traverse()
         {
-            if (Right != null)
-            {
-                Right.Traverse();
-            }
+            Console.WriteLine(Data);
             if (Left != null)
             {
                 Left.Traverse();
             }
-            Console.WriteLine(Data);
+            if (Right != null)
+            {
+                Right.Traverse();
+            }
         }
+
 
     }
 }
