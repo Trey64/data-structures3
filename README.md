@@ -1,2 +1,2 @@
 # Tree Traversal
-- We used a traverse method that checks if left/right is null or not. If it isn't, the method calls itself on the respective node to output the data.
+- Two traversal methods that check if left/right is null or not. If it isn't, the method calls itself on the respective node to output the data. PostOrder prints after traversing Left and Right. InOrder prints after traversing Left and before traversing right.
