@@ -6,8 +6,7 @@ namespace BinaryTrees
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yo, check out my tree");
-            Console.WriteLine("");
+            Console.WriteLine("Yo, check out my tree \n");
 
             Tree treeTest = new Tree();
 
