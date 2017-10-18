@@ -1,5 +1,5 @@
-#Min and Max of Binary Search Trees
+#Binary Search Tree
 
-- I learned how to find the nodes with the minimum and maximum values of a binary search tree
-- We used google and found an article on GeeksforGeeks.com
-- The article and whiteboard helped me to complete the challenge.
+- I learned how to insert a node into a binary search tree.
+- I looked to my other completed challenge to finish this.
+- The example that Nathan pseudocoded helped me to understand the challenge.
