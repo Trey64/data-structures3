@@ -1,9 +1,8 @@
-#Deleting a node in a binary search tree
+#Sorted Array to Balanced Binary Tree
 
-Before starting the challenge, I felt like I was starting to understand binary search trees a little bit better because finding the min and max was pretty easy.
-Deletion was a lot more difficult, and I don't think I've fully grasped it yet. However, I did learn that there are three possibilities when deleting a node:
-The node is a a leaf with no children, the node has one child, or the node has two children. We whiteboarded a diagram and some pseudocode. Our main guideline was the geeksforgeeks article.
+Before starting I felt kind of lost, but we found a great resource while researching and our whiteboard helped a lot. I learned how to find the middle of a sorted array and 
+make it the root, then recursively doing the same for the left and right halves of the tree and making them the left/right child. With our new BST, we then do a preorder traversal
+write it out to the console.
 
-The resources we used were:
-http://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
-http://www.algolist.net/Data_structures/Binary_search_tree/Removal
+The resource we used was:
+http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
