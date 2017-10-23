@@ -1,8 +1,6 @@
-#Sorted Array to Balanced Binary Tree
+#Animal GUessing Game
 
-Before starting I felt kind of lost, but we found a great resource while researching and our whiteboard helped a lot. I learned how to find the middle of a sorted array and 
-make it the root, then recursively doing the same for the left and right halves of the tree and making them the left/right child. With our new BST, we then do a preorder traversal
-write it out to the console.
+Before starting, we wanted to draw out our tree so we could visualize where we ask our questions. We found a resource that was a 20 questions game, but I ended up hard coding the initial questions. Any other questions were added by the user. I learned more about recursion and adding nodes to a bst.
 
 The resource we used was:
-http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
+http://www.c-sharpcorner.com/uploadfile/4a950c/20-questions-guessing-game-using-binary-trees/
