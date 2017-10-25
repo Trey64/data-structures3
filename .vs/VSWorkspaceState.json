@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\InsertionSort",
+    "\\README",
     "\\StacksAndQueues"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\README\\README.md",
   "PreviewInSolutionExplorer": false
 }
