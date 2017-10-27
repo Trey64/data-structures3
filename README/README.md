@@ -1,7 +1,7 @@
-#Merge Sort
+#Quick Sort
 
-The resource provided helped to conceptualize the merge sort algorithm. First we take in an array, determine low/mid/high indexes, then recursively divide the array into subsections until each subsection contains just one value in the array. Then we recursively merge the subsections to make new sorted sections. Repeat until only one sorted array is left.
+Quick Sort divides a large array into two sub-arrays containing low elements and high elements. First it selects an element from the array as a pivot. Then it reorders elements around the pivot by comparing their values. Lesser values come before the pivot and greater values come after. This is recursively applied to the subsections until the array is sorted.
 
 The resources we used were:
-https://www.wikiwand.com/en/Merge_sort
-https://gist.github.com/pmgeorg/9122984
+https://www.wikiwand.com/en/Quicksort
+https://github.com/justcoding121/Advanced-Algorithms/blob/develop/Advanced.Algorithms/Sorting/QuickSort.cs
