@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultidimensionalArrays", "MultidimensionalArrays\MultidimensionalArrays.csproj", "{863B426B-852B-4F60-92C9-6C2228C6A41C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{A824064E-5B77-4928-8C67-0EC2665AFFA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{863B426B-852B-4F60-92C9-6C2228C6A41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{863B426B-852B-4F60-92C9-6C2228C6A41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{863B426B-852B-4F60-92C9-6C2228C6A41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{863B426B-852B-4F60-92C9-6C2228C6A41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A824064E-5B77-4928-8C67-0EC2665AFFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A824064E-5B77-4928-8C67-0EC2665AFFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A824064E-5B77-4928-8C67-0EC2665AFFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A824064E-5B77-4928-8C67-0EC2665AFFA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B949DA0C-4A50-45B2-B5CC-FC65066A0C3E}
+		SolutionGuid = {9BF91DAD-4ADA-42AF-996F-89A231165064}
 	EndGlobalSection
 EndGlobal

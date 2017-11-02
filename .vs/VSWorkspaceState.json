@@ -4,9 +4,12 @@
     "\\AssociativeArray",
     "\\AssociativeArray\\AssociativeArray",
     "\\InsertionSort",
+    "\\Matrix",
+    "\\Matrix\\MultidimensionalArrays",
+    "\\Matrix\\MultidimensionalArrays\\MultidimensionalArrays",
     "\\README",
     "\\StacksAndQueues"
   ],
-  "SelectedNode": "\\AssociativeArray\\AssociativeArray\\Blockbuster.cs",
+  "SelectedNode": "\\Matrix\\MultidimensionalArrays\\MultidimensionalArrays\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
