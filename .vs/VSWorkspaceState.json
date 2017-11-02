@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\AssociativeArray",
+    "\\AssociativeArray\\AssociativeArray",
     "\\InsertionSort",
+    "\\Matrix",
+    "\\Matrix\\MultidimensionalArrays",
+    "\\Matrix\\MultidimensionalArrays\\MultidimensionalArrays",
     "\\README",
     "\\StacksAndQueues"
   ],
-  "SelectedNode": "\\README\\README.md",
+  "SelectedNode": "\\Matrix\\MultidimensionalArrays\\MultidimensionalArrays\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
