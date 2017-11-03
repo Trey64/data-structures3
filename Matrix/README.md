@@ -1,5 +1,5 @@
-Going into this challenge, I was unfamiliar with multidimensional arrays. We looked at the resources below to learn more, as well as some youtube videos. For our implementation, first we wanted to find the element containing zero. Then we want to change everything in the same index to zero. We tried to start with a small 2x2 matrix to make it simpler, but our solution isn't working so we will have to try a different approach.
+At first glance this seemed like a difficult challenge, but we found a great resource that broke it down well. For our implementation, we chose to rotate our matrix counter-clockwise and in-place.
+Our matrix can be broken down into 4 smaller squares. This helped us to visualize things better during whiteboarding. For each square, we move elements in the same cells counter-clockwise. We do this one at a time, storing cells in a temporary variable and repeating until every element is rotated.
 
-Resources used:
-https://www.dotnetperls.com/2d
-http://answers.unity3d.com/questions/445116/how-to-check-if-a-value-exists-in-an-array-c.html
+Resources used: 
+http://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/
