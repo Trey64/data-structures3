@@ -5,11 +5,11 @@
     "\\AssociativeArray\\AssociativeArray",
     "\\InsertionSort",
     "\\Matrix",
+    "\\Matrix\\Matrix",
     "\\MiscAlgorithms",
-    "\\MiscAlgorithms\\RotateMatrix",
     "\\README",
     "\\StacksAndQueues"
   ],
-  "SelectedNode": "\\MiscAlgorithms\\README.md",
+  "SelectedNode": "\\Matrix\\README.md",
   "PreviewInSolutionExplorer": false
 }
