@@ -7,9 +7,10 @@
     "\\Matrix",
     "\\Matrix\\Matrix",
     "\\MiscAlgorithms",
-    "\\README",
-    "\\StacksAndQueues"
+    "\\MiscAlgorithms\\TowersOfHanoi",
+    "\\MiscAlgorithms\\TowersOfHanoi\\TowersOfHanoi",
+    "\\README"
   ],
-  "SelectedNode": "\\Matrix\\README.md",
+  "SelectedNode": "\\MiscAlgorithms\\TowersOfHanoi\\TowersOfHanoi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
