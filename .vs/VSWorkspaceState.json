@@ -4,12 +4,13 @@
     "\\AssociativeArray",
     "\\AssociativeArray\\AssociativeArray",
     "\\InsertionSort",
-    "\\Matrix",
     "\\Matrix\\Matrix",
     "\\MiscAlgorithms",
+    "\\MiscAlgorithms\\Permutations",
+    "\\MiscAlgorithms\\Permutations\\Permutations",
     "\\MiscAlgorithms\\TowersOfHanoi",
-    "\\MiscAlgorithms\\TowersOfHanoi\\TowersOfHanoi",
-    "\\README"
+    "\\MiscAlgorithms\\TowersOfHanoi\\TowersOfHanoi"
   ],
+  "SelectedNode": "\\MiscAlgorithms\\Permutations\\Permutations\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
