@@ -1,11 +1,10 @@
-#Alphabet Permutation
+#Nth of Fibonacci
 
-Immediately, we thought about creating a string of letters and setting int n to the length of the string. We ended up using a char array.
-Our Swap method passes two values as references and swaps the values.
-Our Permute method takes a char array, starting index, and end index as parameters. If a set has only 1 element, it returns it.
-If the set has two characters it returns each element, with the permutation of the rest of the elements added. Then it swaps the reference values, ecursively permutates, backtracks to swap values again, and continues on until all possible permutations are done.
-
+The Fibonacci sequence is something I've seen before, without even knowing what it was. It's a sequence where the next number in a series of numbers is calculated by adding the two numbers before it.
+So our rule is x~n = x~n-1 + x~n-2.
+Our method takes in N as a parameter. If N is less than or equal to 1, it returns N. We then return the sum of the previous 2 numbers by using recursion.
+The resources we utilized had helpful information and diagrams that helped us to understand it better.
 
 Resources used: 
-http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
-https://stackoverflow.com/questions/756055/listing-all-permutations-of-a-string-integer/756083#756083
+https://www.mathsisfun.com/numbers/fibonacci-sequence.html
+http://www.geeksforgeeks.org/program-for-nth-fibonacci-number/

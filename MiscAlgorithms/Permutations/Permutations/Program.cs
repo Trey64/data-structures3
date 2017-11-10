@@ -8,7 +8,7 @@ namespace Permutations
     {
         static void Main(string[] args)
         {
-            string str = "abcd";
+            string str = "abcdefg";
             char[] arr = str.ToCharArray();
             int n = arr.Length;
 
